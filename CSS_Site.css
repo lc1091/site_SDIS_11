@@ -1,0 +1,138 @@
+.Titre{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid rgb(0, 0, 0);
+    width: 50%;
+    margin-left: 25%;
+    color: rgb(83, 83, 83);
+}
+
+.titreArticle{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.page
+{
+    background-color: rgb(255, 249, 249);
+    width: 98%;
+    height: auto;
+    border: 1px black solid;
+    letter-spacing: normal;
+}
+
+.Explication{
+    margin: 0 5% 0 5%;
+}
+
+.Question{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+.Reponse{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: auto;
+}
+
+html{
+    background-color: rgb(255, 22, 22);
+    margin: 2% 1% 0 2%;
+}
+
+.graphe{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: auto;
+    margin-bottom: 3%;
+}
+
+#Organigramme{
+    display: flex;
+    margin-top: 2%;
+}
+
+.Size_orga{
+    max-width: 50%;
+}
+
+#video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+}
+
+.br{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.condition{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.Reponsebis{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: auto;
+    margin-top: 20px;
+}
+
+.retour{
+    margin-left: 5%;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: auto;
+}
+
+td, table{
+    border: 1px black solid;
+}
+
+.Reponsetableau{
+    min-width: 50%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: auto;
+    text-align: center;
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.transparant{
+    opacity: 0;
+}
+
+.Candidature{
+    margin: 0 5% 0 5%;
+}
+
+.Formulaire{
+    display: flex;
+}
+
+#space1{
+    margin-right: 30px;
+}
+
+#center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#age{
+    width: 100%;
+    margin-right: 5%;
+}
